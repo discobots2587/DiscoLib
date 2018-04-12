@@ -1,0 +1,7 @@
+org.discobots.lib
+org.discobots.lib.autonomous
+org.discobots.lib.autonomous.commands
+org.discobots.lib.autonomous.pid
+org.discobots.lib.controllers
+org.discobots.lib.motor
+org.discobots.lib.util
